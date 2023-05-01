@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+label{
+    display: block;
+}
+body{
+    background-color: #FDF4F5;
+}.fullstackroadmap{
+    width: 500px;
+    height: 500px;
+    margin: 2rem;
+}
+.datasc{
+    width: 700px;
+    height: 700px;
+    margin: 10rem;
+}
+.uiimg{
+    margin: 3rem;
+}.navigation{
+    background-color: #E8A0BF;
+}
+.navigation a{
+    margin: 5rem;
+    color: black;
+    transition : .3s;
+}.navigation a:hover{
+    font-size: large;
+    transform: translate(transition);
+}
+.backlogo{
+    height: 50px;
+    width: 50px;
+}.row{
+    display: flex;
+}.mainh{
+    margin-left: 30rem;
+}
